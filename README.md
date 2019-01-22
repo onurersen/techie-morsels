@@ -1,4 +1,4 @@
-**# Techie Morsels**
+**Techie Morsels**
 
 Techie Morsels was a voluntary inter-company newsletter project.
 
