@@ -2,8 +2,9 @@
 
 Techie Morsels was a voluntary inter-company newsletter project.
 
-In the mornings before I start to work, I check latest news on 
-things such as software craftmanship , technology stacks, 
+In the mornings before I start to work, 
+I check latest news on things such as software craftmanship , 
+technology stacks, 
 
 artificial intelligence, machine learning, autonomous vehicles, products etc.
 On one side there are breaking news and on the otherside there are  
