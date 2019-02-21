@@ -15,3 +15,6 @@ This newsletter project was sharing those shareables like "hey, i've found
 this while reading news, look where this technology is going.." 
 but not "hey, look at this stupid cat video" or video of 
 "man bullying and getting his *ss kicked" :)
+
+Content was mostly covered from Hacker News, a16z, my feedly RSS, 
+various bloggers (i.e. Seth's Blog, ALearningADay, Exponential View etc.)
